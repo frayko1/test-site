@@ -875,6 +875,12 @@ body {
 
 @media(max-width: 460px) {
 	.set {
+		margin-left: 5px;
+	}
+}
+
+@media(max-width: 450px) {
+	.set {
 		margin-left: 0;
 	}
 }
